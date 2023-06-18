@@ -20,9 +20,8 @@ urlpatterns = [
     path("<int:pk>/update/", InvoiceUpdateView.as_view(), name="invoice-update"),
     path("<int:pk>/delete/", InvoiceDeleteView.as_view(), name="invoice-delete"),
     path("receipt/create", ReceiptCreateView.as_view(), name="receipt-create"),
-    path(
-        "receipt/<int:pk>/update/", ReceiptUpdateView.as_view(), name="receipt-update"
-    ),
+    path("receipt/<int:pk>/update/", ReceiptUpdateView.as_view(), name="receipt-update"),
+    
     path('receipt/<int:pk>/print/', views.ReceiptPrint, name='receipt-print'),
 
     # path('receipt/<str:pk>/print/', ReceiptPrint.as_view(), name='receipt-print'),

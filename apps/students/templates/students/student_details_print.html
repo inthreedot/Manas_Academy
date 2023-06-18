@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Details</title>
+    <style>
+        body {
+            width: 210mm;
+            height: 297mm;
+
+            margin: 5px;
+            padding: 5px;
+        }
+
+        .fcontainer {
+            width: 98%;
+            height: 98%;
+            align-self: center;
+            border: .5px solid gray;
+            margin: 6px;
+            padding: 6px;
+            flex-direction: column;
+
+        }
+
+        .fvitems {
+            display: flex;
+            /* border: .5px solid gold; */
+            margin: 6px;
+            padding: 6px;
+            text-align: center;
+
+        }
+
+        .fhitems1 {
+            display: flex;
+            /* border: 2px solid rebeccapurple; */
+            margin: 5px;
+            padding: 5px;
+            width: 50%;
+
+        }
+
+        .fhitems2 {
+
+            /* border: 2px solid rebeccapurple; */
+            margin: 5px;
+            margin-top: 4%;
+            padding: 5px;
+            width: 50%;
+
+        }
+
+        .items {
+            display: flex;
+            /* border: 1px solid red; */
+            align-items: center;
+        }
+
+        .itemsone {
+            margin: 2px;
+            padding: 5px;
+            width: 40%;
+            text-align: left;
+        }
+
+        .itemstwo {
+            margin: 2px;
+            padding: 5px;
+            width: 55%;
+            text-align: start;
+            /* border: 1px solid gray; */
+        }
+
+
+        #id_pic {
+            margin: 5px;
+            margin-top: 10px;
+            width: 40%;
+            height: 15%;
+
+        }
+
+        #picture {
+            width: 120px;
+            height: 120px;
+            padding: 2px;
+            border-radius: 45%;
+
+
+        }
+
+        #id_data {
+            margin-left: 10%;
+            padding: 4px;
+            width: 60%;
+            margin: 3px;
+            height: 15%;
+
+        }
+    </style>
+</head>
+{% load static %}
+
+<body>
+
+    <div class="fcontainer">
+
+        <h1 style="margin: 15px; text-align: center; color: chartreuse; padding: 10px;">Manas Academy, Kaljhar</h1>
+        <div class="fvitems">
+            <div class="fhitems1">
+                <div id="id_pic">
+                    {% if student.student_photo %}
+                    <img src="{{ student.student_photo.url }}" id="picture">
+                    {% else %}
+                    <img src="{% static 'dist/img/avatar.png' %}" class="float-left rounded-circle mr-3"
+                        style="width: 120px; height: 120px;">
+                    {% endif %}
+
+
+                </div>
+                <div id="id_data">
+                    <h2>{{ student.firstname }} {{ student.surname }} </h2>
+                    <p>Reg. No: <b>{{ student.registration_number }}</b></p>
+                    <p>Class: <b>{{ student.current_class }}</b></p>
+
+
+                </div>
+            </div>
+            <div class="fhitems2">
+                <div class="items">
+                    <div class="itemsone">Date of Birth:</div>
+                    <div class="itemstwo"><b>{{ student.date_of_birth }} </b></div>
+                </div>
+                <div class="items">
+                    <div class="itemsone">Date of Admission:</div>
+                    <div class="itemtwo"><b>{{ student.date_of_admission }}</b> </div>
+                </div>
+                <div class="items">
+                    <div class="itemsone">Gender:</div>
+                    <div class="itemtwo"><b>{{ student.get_gender_display }}</b> </div>
+                </div>
+                <div class="items">
+                    <div class="itemsone">Current Status:</div>
+                    <div class="itemtwo"><b>{{ student.get_current_status_display }}</b> </div>
+
+                </div>
+
+            </div>
+        </div>
+        <div style="height: 5%;"></div>
+
+        <div class="fvitems">
+            <div class="fhitems1">
+                <div class="itemsone">Student Category:</div>
+                <div class="itemtwo"><b>{{ student.get_Students_Category_display }}</b> </div>
+            </div>
+            <div class="fhitems1">
+                <div class="itemsone">Father's Name:</div>
+                <div class="itemtwo"><b>{{ student.fathers_name}}</b> </div>
+            </div>
+        </div>
+        <div class="fvitems">
+            <div class="fhitems1">
+                <div class="itemsone">Educational Block:</div>
+                <div class="itemtwo"><b>{{ student.educational_block }}</b> </div>
+            </div>
+            <div class="fhitems1">
+                <div class="itemsone">Mother's Name:</div>
+                <div class="itemtwo"><b>{{ student.mothers_name }}</b> </div>
+            </div>
+
+        </div>
+        <div class="fvitems">
+            <div class="fhitems1">
+                <div class="itemsone">Cluster name:</div>
+                <div class="itemtwo"><b>{{ student.cluster_name }}</b> </div>
+            </div>
+            <div class="fhitems1">
+                <div class="itemsone">Parent's Mob. No:</div>
+                <div class="itemtwo"><b>{{ student.parent_mobile_number }}</b> </div>
+            </div>
+        </div>
+        <div style="height: 2%;"></div>
+        <div class="fvitems">
+            <div class="fhitems1">
+                <div class="itemsone">Aadhaar No:</div>
+                <div class="itemtwo"><b>{{ student.aadhaar_number}}</b> </div>
+            </div>
+            <div class="fhitems1">
+                <div class="itemsone">Address:</div>
+                <div class="itemtwo"><b>{{ student.address}}</b></div>
+            </div>
+
+        </div>
+        <div class="fvitems">
+            <div class="fhitems1">
+                <div class="itemsone">Bank Name:</div>
+                <div class="itemtwo"><b>{{ student.name_of_the_bank}}</b> </div>
+            </div>
+            <div class="fhitems1">
+                <div class="itemsone">District:</div>
+                <div class="itemtwo"><b>{{ student.district}}</b></div>
+            </div>
+        </div>
+        <div class="fvitems">
+            <div class="fhitems1">
+                <div class="itemsone">Account No:</div>
+                <div class="itemtwo"><b>{{ student.account_no}}</b> </div>
+            </div>
+            <div class="fhitems1">
+                <div class="itemsone">State:</div>
+                <div class="itemtwo"><b>{{ student.state}}</b></div>
+            </div>
+        </div>
+        <div class="fvitems">
+            <div class="fhitems1">
+                <div class="itemsone">Branch Name:</div>
+                <div class="itemtwo"><b>{{ student.branch_name}}</b> </div>
+            </div>
+            <div class="fhitems1">
+                <div class="itemsone">Country:</div>
+                <div class="itemtwo"><b>{{ student.country}}</b></div>
+            </div>
+        </div>
+        <div class="fvitems">
+            <div class="fhitems1">
+                <div class="itemsone">IFSC Code:</div>
+                <div class="itemtwo"><b>{{ student.ifsc_code}}</b> </div>
+            </div>
+            <div class="fhitems1">
+                <div class="itemsone">Pin:</div>
+                <div class="itemtwo"><b>{{ student.pin}}</b></div>
+            </div>
+        </div>
+        <div class="fvitems">
+            <div style="margin: 5px; padding: 5px;">
+                <div class="itemsone">Others:</div>
+                <div class="itemtwo"><b>{{ student.others}}</b> </div>
+            </div>
+
+        </div>
+
+
+
+    </div>
+    <div style="display: flex; justify-content: flex-end;">
+        <button style="padding: 5px; bottom: 0;" onclick="window.print()" >Print</button>
+    </div>
+
+
+
+</body>
+
+</html>

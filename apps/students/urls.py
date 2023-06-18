@@ -1,4 +1,5 @@
 from django.urls import path
+from . import views
 
 from .views import (
     DownloadCSVViewdownloadcsv,
@@ -8,6 +9,7 @@ from .views import (
     StudentDetailView,
     StudentListView,
     StudentUpdateView,
+    student_details_print,
 )
 
 urlpatterns = [
@@ -18,4 +20,5 @@ urlpatterns = [
     path("delete/<int:pk>/", StudentDeleteView.as_view(), name="student-delete"),
     path("upload/", StudentBulkUploadView.as_view(), name="student-upload"),
     path("download-csv/", DownloadCSVViewdownloadcsv.as_view(), name="download-csv"),
+    path('details/<int:student_id>/', views.student_details_print, name='student_details_print'),
 ]

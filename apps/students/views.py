@@ -95,6 +95,14 @@ class DownloadCSVViewdownloadcsv(LoginRequiredMixin, View):
         )
 
         return response
+
+def student_details_print(request, student_id):
+    student = Student.objects.get(id=student_id)
+    context = {'student': student}
+    return render(request, 'students/student_details_print.html', context)
+
+
+
     
 # def dashboard(request):
 #     student=Student.objects.all()

@@ -927,3 +927,2139 @@ INFO 2023-04-11 14:48:03,528 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
 INFO 2023-04-11 14:48:03,543 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
 INFO 2023-04-11 14:48:03,556 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
 INFO 2023-04-11 14:48:29,590 "GET /finance/receipt/1/print/ HTTP/1.1" 200 5960
+INFO 2023-06-17 17:06:33,619 Watching for file changes with StatReloader
+INFO 2023-06-17 17:09:35,746 Watching for file changes with StatReloader
+INFO 2023-06-17 17:11:37,043 Watching for file changes with StatReloader
+INFO 2023-06-17 17:21:46,068 Watching for file changes with StatReloader
+INFO 2023-06-17 17:22:36,647 Watching for file changes with StatReloader
+INFO 2023-06-17 17:25:46,890 Watching for file changes with StatReloader
+INFO 2023-06-17 17:34:19,247 Watching for file changes with StatReloader
+INFO 2023-06-17 17:34:58,344 "GET / HTTP/1.1" 200 23861
+INFO 2023-06-17 17:34:58,538 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 200 5386
+INFO 2023-06-17 17:34:58,617 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 200 397551
+INFO 2023-06-17 17:34:58,783 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 200 220
+INFO 2023-06-17 17:34:58,858 "GET /static/wb_js/app.js HTTP/1.1" 200 5611
+INFO 2023-06-17 17:34:58,961 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 200 1030
+INFO 2023-06-17 17:34:59,435 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 200 604102
+INFO 2023-06-17 17:34:59,462 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 200 540
+INFO 2023-06-17 17:34:59,516 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 200 235014
+INFO 2023-06-17 17:34:59,648 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 200 326277
+INFO 2023-06-17 17:34:59,714 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 200 168844
+INFO 2023-06-17 17:34:59,819 "GET /static/wb_css/style.css HTTP/1.1" 200 80689
+INFO 2023-06-17 17:35:00,059 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 200 863628
+INFO 2023-06-17 17:35:00,079 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 200 604102
+INFO 2023-06-17 17:35:00,180 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 200 111841
+INFO 2023-06-17 17:35:00,247 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 200 413531
+INFO 2023-06-17 17:35:00,320 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 200 419420
+INFO 2023-06-17 17:35:00,379 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 200 180325
+INFO 2023-06-17 17:35:00,451 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 200 180325
+INFO 2023-06-17 17:35:00,576 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 200 12857
+INFO 2023-06-17 17:35:00,681 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 200 14416
+INFO 2023-06-17 17:35:00,820 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 200 16887
+INFO 2023-06-17 17:35:00,954 - Broken pipe from ('127.0.0.1', 52799)
+INFO 2023-06-17 17:35:00,993 - Broken pipe from ('127.0.0.1', 52797)
+INFO 2023-06-17 17:35:01,202 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 200 668760
+INFO 2023-06-17 17:35:01,232 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 28866
+INFO 2023-06-17 17:35:01,293 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 206 3446
+INFO 2023-06-17 17:35:01,584 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:01,885 - Broken pipe from ('127.0.0.1', 52794)
+INFO 2023-06-17 17:35:01,980 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 200 10793
+INFO 2023-06-17 17:35:02,524 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 15859712
+INFO 2023-06-17 17:35:10,500 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:10,569 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:10,734 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:10,801 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:10,866 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:10,916 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:10,990 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:11,052 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:11,122 - Broken pipe from ('127.0.0.1', 52795)
+INFO 2023-06-17 17:35:13,880 "GET /corecode/ HTTP/1.1" 302 0
+INFO 2023-06-17 17:35:14,129 "GET /accounts/login/?next=/corecode/ HTTP/1.1" 200 3980
+INFO 2023-06-17 17:35:14,333 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2023-06-17 17:35:14,579 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2023-06-17 17:35:14,580 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2023-06-17 17:35:14,706 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2023-06-17 17:35:14,801 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2023-06-17 17:35:14,874 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58587
+INFO 2023-06-17 17:35:15,014 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2023-06-17 17:35:15,141 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2023-06-17 17:35:15,213 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2023-06-17 17:35:15,299 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2023-06-17 17:35:15,357 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2023-06-17 17:35:15,455 "GET /static/dist/img/login.png HTTP/1.1" 200 144918
+INFO 2023-06-17 17:35:15,537 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2023-06-17 17:35:15,611 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2023-06-17 17:35:26,131 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-06-17 17:35:26,321 "GET /corecode/ HTTP/1.1" 200 9463
+INFO 2023-06-17 17:35:26,471 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:26,544 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:26,616 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:26,688 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:26,762 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:26,823 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:26,886 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:26,980 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:27,063 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:27,124 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:27,243 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:27,383 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2023-06-17 17:35:27,546 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2023-06-17 17:35:27,848 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:27,909 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2023-06-17 17:35:41,530 "GET /student/list HTTP/1.1" 200 10408
+INFO 2023-06-17 17:35:41,636 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:41,697 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:41,761 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:41,832 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:41,905 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:41,967 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:42,050 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:42,112 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:42,185 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:42,247 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:42,297 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:42,381 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:42,443 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:49,402 "GET /student/1/ HTTP/1.1" 200 11826
+INFO 2023-06-17 17:35:49,539 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:49,612 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:49,695 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:49,758 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:49,829 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:49,891 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:49,975 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:50,048 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:50,122 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:50,204 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:50,267 "GET /static/dist/img/avatar.png HTTP/1.1" 200 8543
+INFO 2023-06-17 17:35:50,342 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:50,423 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:35:50,484 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:29,626 "GET /student/list HTTP/1.1" 200 10408
+INFO 2023-06-17 17:41:29,709 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:29,782 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:29,844 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:29,905 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:29,967 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:30,029 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:30,091 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:30,153 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:30,214 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:30,276 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:30,349 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:30,445 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:30,549 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:33,965 "GET /student/create/ HTTP/1.1" 200 18092
+INFO 2023-06-17 17:41:34,081 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,143 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,205 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,277 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,339 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,401 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,463 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,524 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,597 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,660 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,721 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,783 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:41:34,833 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:57,281 "GET /student/list HTTP/1.1" 200 10408
+INFO 2023-06-17 17:42:57,385 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:57,448 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:57,509 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:57,570 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:57,633 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:57,694 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:57,757 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:58,140 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:58,224 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:58,284 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:58,368 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:58,430 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:42:58,580 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:05,573 - Broken pipe from ('127.0.0.1', 52849)
+INFO 2023-06-17 17:44:05,656 "GET /student/1/ HTTP/1.1" 200 11826
+INFO 2023-06-17 17:44:05,762 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:05,824 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:05,886 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:05,947 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:06,009 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:06,070 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:06,133 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:06,194 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:06,256 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:06,328 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:06,391 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:06,452 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:06,513 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:44:06,575 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:37,959 "GET /student/list HTTP/1.1" 200 10408
+INFO 2023-06-17 17:45:38,086 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,148 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,209 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,283 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,344 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,406 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,467 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,530 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,591 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,655 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,737 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,810 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:38,948 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:49,348 "GET /student/create/ HTTP/1.1" 200 18092
+INFO 2023-06-17 17:45:49,441 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:49,515 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:49,587 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:49,661 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:49,721 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:49,784 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:49,845 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:49,912 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:49,980 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:50,042 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:50,103 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:50,165 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:45:50,227 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,061 "GET /corecode/ HTTP/1.1" 200 13974
+INFO 2023-06-17 17:57:49,163 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,225 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,287 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,349 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,410 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,472 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,537 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,607 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,691 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,764 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,869 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:49,931 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:50,014 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:50,098 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-17 17:57:50,160 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,144 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2023-06-17 18:00:54,177 "GET / HTTP/1.1" 200 23861
+INFO 2023-06-17 18:00:54,195 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,208 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,217 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,230 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,236 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,237 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,247 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,256 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,261 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,267 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,268 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,272 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,276 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,280 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,283 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,288 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,293 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,297 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,298 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,300 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,306 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,310 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,310 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,331 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,333 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,575 - Broken pipe from ('127.0.0.1', 52960)
+INFO 2023-06-17 18:00:54,582 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,582 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:54,585 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 194
+INFO 2023-06-17 18:00:54,670 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:55,984 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:56,004 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:56,012 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:56,019 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:56,026 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:56,033 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:56,043 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:56,054 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:56,642 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-17 18:00:56,655 - Broken pipe from ('127.0.0.1', 52959)
+INFO 2023-06-17 18:36:10,956 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:11,780 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:24,721 "GET / HTTP/1.1" 200 23861
+INFO 2023-06-18 16:05:25,209 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,211 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,213 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,214 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,216 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,216 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,221 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,223 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,852 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,853 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,854 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,855 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,856 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,857 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,857 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:25,908 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,075 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,076 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,081 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,082 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,120 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,123 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,232 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,233 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,285 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,353 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,369 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,463 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:26,734 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:34,083 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:34,093 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:34,099 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:34,103 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:34,111 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:05:34,120 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:24,977 "GET /corecode/ HTTP/1.1" 302 0
+INFO 2023-06-18 16:06:27,246 "GET /accounts/login/?next=/corecode/ HTTP/1.1" 200 3980
+INFO 2023-06-18 16:06:27,421 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,422 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,422 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,423 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,462 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,463 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,464 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,464 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,464 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,578 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,579 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,584 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:27,637 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:28,605 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:32,163 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-06-18 16:06:32,830 "GET /corecode/ HTTP/1.1" 200 14023
+INFO 2023-06-18 16:06:33,034 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,097 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,158 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,209 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,272 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,333 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,394 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,467 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,539 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,602 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,664 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,737 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:33,797 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:06:34,398 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:02,933 "GET /student/list HTTP/1.1" 200 10408
+INFO 2023-06-18 16:07:03,058 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,119 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,181 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,242 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,304 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,365 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,427 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,490 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,540 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,602 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,663 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,726 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:03,786 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:06,971 "GET /student/1/ HTTP/1.1" 200 11826
+INFO 2023-06-18 16:07:07,199 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:07,271 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:07,333 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:07,416 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:07,479 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:07,540 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:07,602 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:07,729 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:07,792 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:07,853 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:07,916 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:07,977 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:08,083 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:08,212 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:20,379 "GET /finance/list/ HTTP/1.1" 200 10591
+INFO 2023-06-18 16:07:20,529 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:20,580 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:20,641 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:20,702 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:20,765 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:20,827 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:20,888 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:20,951 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:21,034 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:21,095 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:21,158 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:21,264 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:21,746 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:28,251 "GET /finance/1/detail/ HTTP/1.1" 200 14108
+INFO 2023-06-18 16:07:28,378 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:28,442 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:28,524 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:28,608 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:28,691 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:28,764 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:28,826 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:28,888 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:28,949 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:29,034 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:29,095 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:29,173 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:29,240 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:07:29,301 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:09:20,568 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:09:20,631 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:09:20,694 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:09:20,819 "GET /static/dist/js/adminlte.js.map HTTP/1.1" 200 113276
+INFO 2023-06-18 16:09:20,953 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 318045
+INFO 2023-06-18 16:09:21,042 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:09:21,126 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:09:21,193 "GET /static/plugins/toastr/toastr.js.map HTTP/1.1" 200 25633
+INFO 2023-06-18 16:09:21,634 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 200 2149167
+INFO 2023-06-18 16:09:22,008 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 200 3780602
+INFO 2023-06-18 16:10:48,135 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 11026
+INFO 2023-06-18 16:10:48,274 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:48,348 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:48,409 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:48,469 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:48,532 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:48,593 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:48,666 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:48,750 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:48,811 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:48,917 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:48,980 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:49,041 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:49,146 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:49,263 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:49,458 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:49,517 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:49,835 "GET /static/plugins/toastr/toastr.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:49,894 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:49,957 "GET /static/dist/js/adminlte.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:50,007 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:58,448 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:58,819 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:58,880 "GET /static/plugins/toastr/toastr.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:58,952 "GET /static/dist/js/adminlte.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:10:59,168 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:38,191 "GET /student/list HTTP/1.1" 200 10408
+INFO 2023-06-18 16:14:38,305 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:38,369 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:38,419 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:38,477 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:38,553 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:38,603 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:38,683 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:38,746 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:38,832 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:38,894 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:38,981 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:39,039 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:39,102 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:39,206 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:39,887 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:40,015 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:40,420 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:40,841 "GET /static/plugins/toastr/toastr.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:40,914 "GET /static/dist/js/adminlte.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:40,970 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:42,489 "GET /student/1/ HTTP/1.1" 200 11826
+INFO 2023-06-18 16:14:42,638 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:42,690 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:42,753 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:42,814 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:42,896 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:42,969 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,032 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,093 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,155 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,219 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,267 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,329 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,416 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,475 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,535 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,599 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,661 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:43,832 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:44,235 "GET /static/plugins/toastr/toastr.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:44,570 "GET /static/dist/js/adminlte.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:14:44,635 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:35,391 "GET /student/1/ HTTP/1.1" 200 12044
+INFO 2023-06-18 16:30:35,497 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:35,557 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:35,692 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:35,771 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:35,832 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:35,893 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:35,966 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:36,039 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:36,092 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:36,174 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:36,237 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:36,309 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:36,380 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:36,442 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:36,504 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:30:36,565 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+ERROR 2023-06-18 16:30:54,409 Internal Server Error: /finance/receipt/create
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2018, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\views\generic\edit.py", line 180, in get
+    return super().get(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\views\generic\edit.py", line 144, in get
+    return self.render_to_response(self.get_context_data())
+                                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\finance\views.py", line 107, in get_context_data
+    invoice = Invoice.objects.get(pk=self.request.GET["invoice"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 636, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1421, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1439, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1446, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\query.py", line 1532, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\query.py", line 1562, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\query.py", line 1478, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\lookups.py", line 341, in get_prep_lookup
+    return super().get_prep_lookup()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\lookups.py", line 85, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2020, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'id' expected a number but got ''.
+ERROR 2023-06-18 16:30:55,360 "GET /finance/receipt/create?invoice= HTTP/1.1" 500 154242
+INFO 2023-06-18 16:39:32,858 "GET /student/1/ HTTP/1.1" 200 12150
+INFO 2023-06-18 16:39:32,963 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,015 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,076 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,145 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,210 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,274 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,333 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,400 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,476 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,533 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,600 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,668 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,749 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,810 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,905 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:39:33,967 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:16,325 "GET /student/1/ HTTP/1.1" 200 12155
+INFO 2023-06-18 16:40:16,788 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:16,857 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:16,919 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:16,983 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,053 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,116 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,167 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,233 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,299 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,386 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,467 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,529 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,591 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,653 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,717 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:17,867 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,079 "GET /student/1/ HTTP/1.1" 200 11944
+INFO 2023-06-18 16:40:52,196 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,275 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,339 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,402 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,464 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,511 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,577 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,661 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,735 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,784 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,847 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,909 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:52,988 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:53,050 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:53,149 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:40:53,212 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:20,460 "GET /student/list HTTP/1.1" 200 10408
+INFO 2023-06-18 16:42:20,588 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:20,661 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:20,722 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:20,786 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:20,857 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:20,919 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:20,980 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:21,032 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:21,093 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:21,155 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:21,217 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:21,291 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:21,372 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:21,436 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 16:42:21,497 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 16:46:43,983 D:\Manas\Manas_Academy\apps\finance\urls.py changed, reloading.
+INFO 2023-06-18 16:46:50,104 Watching for file changes with StatReloader
+INFO 2023-06-18 16:46:55,329 D:\Manas\Manas_Academy\apps\finance\urls.py changed, reloading.
+INFO 2023-06-18 16:46:56,532 Watching for file changes with StatReloader
+INFO 2023-06-18 16:50:00,851 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:50:02,287 Watching for file changes with StatReloader
+INFO 2023-06-18 16:50:20,683 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:50:22,252 Watching for file changes with StatReloader
+INFO 2023-06-18 16:50:23,901 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:50:25,122 Watching for file changes with StatReloader
+INFO 2023-06-18 16:50:28,663 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:50:29,979 Watching for file changes with StatReloader
+INFO 2023-06-18 16:50:31,360 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:50:32,493 Watching for file changes with StatReloader
+INFO 2023-06-18 16:51:09,132 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:51:11,412 Watching for file changes with StatReloader
+INFO 2023-06-18 16:51:12,905 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:51:15,084 Watching for file changes with StatReloader
+INFO 2023-06-18 16:53:00,373 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:53:01,780 Watching for file changes with StatReloader
+INFO 2023-06-18 16:53:50,616 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:53:51,768 Watching for file changes with StatReloader
+INFO 2023-06-18 16:54:20,690 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:54:21,918 Watching for file changes with StatReloader
+INFO 2023-06-18 16:54:25,474 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:54:26,591 Watching for file changes with StatReloader
+INFO 2023-06-18 16:56:10,070 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:56:11,242 Watching for file changes with StatReloader
+INFO 2023-06-18 16:56:16,985 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:56:18,185 Watching for file changes with StatReloader
+INFO 2023-06-18 16:56:30,152 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:56:31,302 Watching for file changes with StatReloader
+INFO 2023-06-18 16:56:41,153 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 16:56:42,235 Watching for file changes with StatReloader
+INFO 2023-06-18 17:01:43,800 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 17:01:45,205 Watching for file changes with StatReloader
+INFO 2023-06-18 17:01:59,550 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 17:02:01,075 Watching for file changes with StatReloader
+INFO 2023-06-18 17:02:04,036 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 17:02:05,160 Watching for file changes with StatReloader
+INFO 2023-06-18 17:02:29,473 D:\Manas\Manas_Academy\apps\students\views.py changed, reloading.
+INFO 2023-06-18 17:02:30,706 Watching for file changes with StatReloader
+INFO 2023-06-18 17:04:17,552 D:\Manas\Manas_Academy\apps\students\urls.py changed, reloading.
+INFO 2023-06-18 17:04:18,747 Watching for file changes with StatReloader
+INFO 2023-06-18 17:04:21,213 D:\Manas\Manas_Academy\apps\students\urls.py changed, reloading.
+INFO 2023-06-18 17:04:22,344 Watching for file changes with StatReloader
+INFO 2023-06-18 17:04:24,130 D:\Manas\Manas_Academy\apps\students\urls.py changed, reloading.
+INFO 2023-06-18 17:04:25,246 Watching for file changes with StatReloader
+INFO 2023-06-18 17:04:34,371 D:\Manas\Manas_Academy\apps\students\urls.py changed, reloading.
+INFO 2023-06-18 17:04:35,563 Watching for file changes with StatReloader
+INFO 2023-06-18 17:04:49,944 D:\Manas\Manas_Academy\apps\students\urls.py changed, reloading.
+INFO 2023-06-18 17:04:52,410 Watching for file changes with StatReloader
+INFO 2023-06-18 17:05:20,421 D:\Manas\Manas_Academy\apps\students\urls.py changed, reloading.
+INFO 2023-06-18 17:05:21,838 Watching for file changes with StatReloader
+INFO 2023-06-18 17:05:34,993 D:\Manas\Manas_Academy\apps\students\urls.py changed, reloading.
+INFO 2023-06-18 17:05:36,496 Watching for file changes with StatReloader
+INFO 2023-06-18 17:06:02,678 D:\Manas\Manas_Academy\apps\students\urls.py changed, reloading.
+INFO 2023-06-18 17:06:03,838 Watching for file changes with StatReloader
+INFO 2023-06-18 17:10:11,190 "GET /student/list HTTP/1.1" 200 10408
+INFO 2023-06-18 17:10:11,475 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:11,525 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:11,588 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:11,649 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:11,700 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:11,762 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:11,824 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:11,885 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:11,959 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:12,021 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:12,085 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:12,191 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:12,271 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:12,332 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 17:10:12,395 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+ERROR 2023-06-18 17:10:14,517 Internal Server Error: /student/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'students'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'students' is not a registered namespace
+ERROR 2023-06-18 17:10:14,523 "GET /student/1/ HTTP/1.1" 500 192881
+ERROR 2023-06-18 17:15:11,007 Internal Server Error: /student/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'students'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'students' is not a registered namespace
+ERROR 2023-06-18 17:15:11,011 "GET /student/1/ HTTP/1.1" 500 192927
+ERROR 2023-06-18 17:15:13,354 Internal Server Error: /student/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'students'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'students' is not a registered namespace
+ERROR 2023-06-18 17:15:13,356 "GET /student/1/ HTTP/1.1" 500 193064
+ERROR 2023-06-18 17:15:41,697 Internal Server Error: /student/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'student'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'student' is not a registered namespace
+ERROR 2023-06-18 17:15:41,697 "GET /student/1/ HTTP/1.1" 500 192904
+INFO 2023-06-18 17:16:04,866 "GET /student/1/ HTTP/1.1" 200 11931
+INFO 2023-06-18 17:16:04,960 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,023 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,102 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,180 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,259 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,339 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,401 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,469 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,557 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,627 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,690 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,753 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,826 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,900 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:05,960 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:06,021 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 17:16:16,795 "GET /student/details/1/ HTTP/1.1" 200 265
+ERROR 2023-06-18 17:21:18,054 Internal Server Error: /student/details/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\students\views.py", line 102, in student_details_print
+    return render(request, 'students/student_details_print.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\defaulttags.py", line 967, in do_if
+    nodelist = parser.parse(("endif",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 16: 'static', expected 'endif'. Did you forget to register or load this tag?
+ERROR 2023-06-18 17:21:18,058 "GET /student/details/1/ HTTP/1.1" 500 155823
+INFO 2023-06-18 17:22:38,218 "GET /student/details/1/ HTTP/1.1" 200 439
+INFO 2023-06-18 17:22:38,299 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:00,276 "GET /student/details/1/ HTTP/1.1" 200 9393
+INFO 2023-06-18 17:23:00,401 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:00,464 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:00,559 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:00,638 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:00,700 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:00,764 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:00,827 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:00,893 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:00,950 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:00,994 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:01,067 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:01,146 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:01,208 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:01,268 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:01,331 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:37,332 "GET /student/details/1/ HTTP/1.1" 200 456
+INFO 2023-06-18 17:23:37,406 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 17:23:39,326 "GET /student/details/1/ HTTP/1.1" 200 456
+INFO 2023-06-18 17:23:39,409 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+ERROR 2023-06-18 17:32:11,856 Internal Server Error: /student/details/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\students\views.py", line 102, in student_details_print
+    return render(request, 'students/student_details_print.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\defaulttags.py", line 967, in do_if
+    nodelist = parser.parse(("endif",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 26: 'static', expected 'endif'. Did you forget to register or load this tag?
+ERROR 2023-06-18 17:32:11,858 "GET /student/details/1/ HTTP/1.1" 500 166225
+ERROR 2023-06-18 17:33:16,810 Internal Server Error: /student/details/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\students\views.py", line 102, in student_details_print
+    return render(request, 'students/student_details_print.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\defaulttags.py", line 967, in do_if
+    nodelist = parser.parse(("endif",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 26: 'static', expected 'endif'. Did you forget to register or load this tag?
+ERROR 2023-06-18 17:33:16,810 "GET /student/details/1/ HTTP/1.1" 500 166423
+ERROR 2023-06-18 17:33:18,830 Internal Server Error: /student/details/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\students\views.py", line 102, in student_details_print
+    return render(request, 'students/student_details_print.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\defaulttags.py", line 967, in do_if
+    nodelist = parser.parse(("endif",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 26: 'static', expected 'endif'. Did you forget to register or load this tag?
+ERROR 2023-06-18 17:33:18,830 "GET /student/details/1/ HTTP/1.1" 500 166423
+ERROR 2023-06-18 17:33:22,703 Internal Server Error: /student/details/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\students\views.py", line 102, in student_details_print
+    return render(request, 'students/student_details_print.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\defaulttags.py", line 967, in do_if
+    nodelist = parser.parse(("endif",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 26: 'static', expected 'endif'. Did you forget to register or load this tag?
+ERROR 2023-06-18 17:33:22,705 "GET /student/details/1/ HTTP/1.1" 500 166286
+ERROR 2023-06-18 17:35:20,180 Internal Server Error: /student/details/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\students\views.py", line 102, in student_details_print
+    return render(request, 'students/student_details_print.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\defaulttags.py", line 967, in do_if
+    nodelist = parser.parse(("endif",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 24: 'static', expected 'endif'. Did you forget to register or load this tag?
+ERROR 2023-06-18 17:35:20,183 "GET /student/details/1/ HTTP/1.1" 500 166141
+ERROR 2023-06-18 17:35:21,269 Internal Server Error: /student/details/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\students\views.py", line 102, in student_details_print
+    return render(request, 'students/student_details_print.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\defaulttags.py", line 967, in do_if
+    nodelist = parser.parse(("endif",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\Manas\venv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 24: 'static', expected 'endif'. Did you forget to register or load this tag?
+ERROR 2023-06-18 17:35:21,271 "GET /student/details/1/ HTTP/1.1" 500 166141
+INFO 2023-06-18 17:36:00,265 "GET /student/details/1/ HTTP/1.1" 200 1274
+INFO 2023-06-18 17:36:00,348 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 17:36:01,938 "GET /student/details/1/ HTTP/1.1" 200 1274
+INFO 2023-06-18 17:36:02,011 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 17:36:04,272 "GET /student/details/1/ HTTP/1.1" 200 1274
+INFO 2023-06-18 17:36:04,355 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 17:36:08,343 "GET /student/details/1/ HTTP/1.1" 200 1274
+INFO 2023-06-18 17:36:08,427 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 17:38:55,631 "GET /student/details/1/ HTTP/1.1" 200 1177
+INFO 2023-06-18 17:38:55,714 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 17:38:57,528 "GET /student/details/1/ HTTP/1.1" 200 1177
+INFO 2023-06-18 17:38:57,609 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 17:41:17,555 "GET /student/details/1/ HTTP/1.1" 200 1394
+INFO 2023-06-18 17:41:17,652 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 17:41:19,148 "GET /student/details/1/ HTTP/1.1" 200 1394
+INFO 2023-06-18 17:41:19,556 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 17:42:08,109 "GET /student/details/1/ HTTP/1.1" 200 1436
+INFO 2023-06-18 17:42:08,202 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:06:07,016 "GET /student/details/1/ HTTP/1.1" 200 1589
+INFO 2023-06-18 18:06:07,105 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:06:59,425 "GET /student/details/1/ HTTP/1.1" 200 1589
+INFO 2023-06-18 18:06:59,508 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:08:10,554 "GET /student/details/1/ HTTP/1.1" 200 1588
+INFO 2023-06-18 18:08:10,640 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:09:17,936 "GET /student/details/1/ HTTP/1.1" 200 1615
+INFO 2023-06-18 18:09:18,113 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:10:52,217 "GET /student/details/1/ HTTP/1.1" 200 1688
+INFO 2023-06-18 18:10:52,331 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:11:24,338 "GET /student/details/1/ HTTP/1.1" 200 1689
+INFO 2023-06-18 18:11:24,419 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:11:25,583 "GET /student/details/1/ HTTP/1.1" 200 1689
+INFO 2023-06-18 18:11:25,651 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:11:49,276 "GET /student/details/1/ HTTP/1.1" 200 1688
+INFO 2023-06-18 18:11:49,358 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:12:05,337 "GET /student/details/1/ HTTP/1.1" 200 1707
+INFO 2023-06-18 18:12:05,436 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:12:22,869 "GET /student/details/1/ HTTP/1.1" 200 1716
+INFO 2023-06-18 18:12:22,951 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:12:56,877 "GET /student/details/1/ HTTP/1.1" 200 1731
+INFO 2023-06-18 18:12:56,971 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:13:36,626 "GET /student/details/1/ HTTP/1.1" 200 1760
+INFO 2023-06-18 18:13:36,719 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:13:38,160 "GET /student/details/1/ HTTP/1.1" 200 1760
+INFO 2023-06-18 18:13:38,251 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:14:16,550 "GET /student/details/1/ HTTP/1.1" 200 1731
+INFO 2023-06-18 18:14:16,634 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:14:18,283 "GET /student/details/1/ HTTP/1.1" 200 1731
+INFO 2023-06-18 18:14:18,363 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:14:19,228 "GET /student/details/1/ HTTP/1.1" 200 1731
+INFO 2023-06-18 18:14:19,302 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:14:31,030 "GET /student/details/1/ HTTP/1.1" 200 1731
+INFO 2023-06-18 18:14:31,098 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:14:32,176 "GET /student/details/1/ HTTP/1.1" 200 1731
+INFO 2023-06-18 18:14:32,249 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:14:37,308 "GET /student/details/1/ HTTP/1.1" 200 1731
+INFO 2023-06-18 18:14:37,411 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:14:38,168 "GET /student/details/1/ HTTP/1.1" 200 1731
+INFO 2023-06-18 18:14:38,242 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:14:38,873 "GET /student/details/1/ HTTP/1.1" 200 1731
+INFO 2023-06-18 18:14:38,959 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:16:31,084 "GET /student/details/1/ HTTP/1.1" 200 1857
+INFO 2023-06-18 18:16:31,200 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:16:52,152 "GET /student/details/1/ HTTP/1.1" 200 1887
+INFO 2023-06-18 18:16:52,228 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:16:53,422 "GET /student/details/1/ HTTP/1.1" 200 1887
+INFO 2023-06-18 18:16:53,507 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:20:21,527 "GET /student/details/1/ HTTP/1.1" 200 1950
+INFO 2023-06-18 18:20:21,623 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:20:23,059 "GET /student/details/1/ HTTP/1.1" 200 1950
+INFO 2023-06-18 18:20:23,142 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:21:21,083 "GET /student/details/1/ HTTP/1.1" 200 2007
+INFO 2023-06-18 18:21:21,172 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:21:55,528 "GET /student/details/1/ HTTP/1.1" 200 2033
+INFO 2023-06-18 18:21:55,602 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:22:44,226 "GET /student/details/1/ HTTP/1.1" 200 2033
+INFO 2023-06-18 18:22:44,309 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:22:47,351 "GET /student/details/1/ HTTP/1.1" 200 2060
+INFO 2023-06-18 18:22:47,434 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:23:35,670 "GET /student/details/1/ HTTP/1.1" 200 2065
+INFO 2023-06-18 18:23:35,767 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:23:55,546 "GET /student/details/1/ HTTP/1.1" 200 2065
+INFO 2023-06-18 18:23:55,626 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:24:28,447 "GET /student/details/1/ HTTP/1.1" 200 2065
+INFO 2023-06-18 18:24:28,549 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:25:45,874 "GET /student/details/1/ HTTP/1.1" 200 2132
+INFO 2023-06-18 18:25:45,959 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:25:56,082 "GET /student/details/1/ HTTP/1.1" 200 2139
+INFO 2023-06-18 18:25:56,176 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:26:25,179 "GET /student/details/1/ HTTP/1.1" 200 2160
+INFO 2023-06-18 18:26:25,259 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:26:52,996 "GET /student/details/1/ HTTP/1.1" 200 2169
+INFO 2023-06-18 18:26:53,065 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:27:09,079 "GET /student/details/1/ HTTP/1.1" 200 2171
+INFO 2023-06-18 18:27:09,164 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:28:14,396 "GET /student/details/1/ HTTP/1.1" 200 2179
+INFO 2023-06-18 18:28:14,501 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:29:25,289 "GET /student/details/1/ HTTP/1.1" 200 2189
+INFO 2023-06-18 18:29:25,374 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:30:22,529 "GET /student/details/1/ HTTP/1.1" 200 2185
+INFO 2023-06-18 18:30:22,611 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:36:07,357 "GET /student/details/1/ HTTP/1.1" 200 3068
+INFO 2023-06-18 18:36:07,446 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:37:59,665 "GET /student/details/1/ HTTP/1.1" 200 3080
+INFO 2023-06-18 18:37:59,748 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:38:33,142 "GET /student/details/1/ HTTP/1.1" 200 3096
+INFO 2023-06-18 18:38:33,233 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:39:08,271 "GET /student/details/1/ HTTP/1.1" 200 3095
+INFO 2023-06-18 18:39:08,352 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:39:09,281 "GET /student/details/1/ HTTP/1.1" 200 3095
+INFO 2023-06-18 18:39:09,368 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:39:27,700 "GET /student/details/1/ HTTP/1.1" 200 3043
+INFO 2023-06-18 18:39:27,778 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:39:57,118 "GET /student/details/1/ HTTP/1.1" 200 2948
+INFO 2023-06-18 18:39:57,200 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:40:55,872 "GET /student/details/1/ HTTP/1.1" 200 2948
+INFO 2023-06-18 18:40:55,952 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:40:57,744 "GET /student/details/1/ HTTP/1.1" 200 2954
+INFO 2023-06-18 18:40:57,840 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:40:59,871 "GET /student/details/1/ HTTP/1.1" 200 2954
+INFO 2023-06-18 18:40:59,954 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:41:17,519 "GET /student/details/1/ HTTP/1.1" 200 2948
+INFO 2023-06-18 18:41:17,603 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:43:00,543 "GET /student/details/1/ HTTP/1.1" 200 3001
+INFO 2023-06-18 18:43:00,634 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:43:48,810 "GET /student/details/1/ HTTP/1.1" 200 3153
+INFO 2023-06-18 18:43:49,210 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:45:16,458 "GET /student/details/1/ HTTP/1.1" 200 3193
+INFO 2023-06-18 18:45:16,541 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:45:17,461 "GET /student/details/1/ HTTP/1.1" 200 3193
+INFO 2023-06-18 18:45:17,544 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:46:17,033 "GET /student/details/1/ HTTP/1.1" 200 3262
+INFO 2023-06-18 18:46:17,118 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:50:13,676 "GET /student/details/1/ HTTP/1.1" 200 3298
+INFO 2023-06-18 18:50:13,772 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:50:15,087 "GET /student/details/1/ HTTP/1.1" 200 3298
+INFO 2023-06-18 18:50:15,174 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:50:18,487 "GET /student/details/1/ HTTP/1.1" 200 3298
+INFO 2023-06-18 18:50:18,880 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:50:21,340 "GET /student/details/1/ HTTP/1.1" 200 3298
+INFO 2023-06-18 18:50:21,424 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:51:35,277 "GET /student/details/1/ HTTP/1.1" 200 3152
+INFO 2023-06-18 18:51:35,371 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:52:16,939 "GET /student/details/1/ HTTP/1.1" 200 3188
+INFO 2023-06-18 18:52:17,023 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:54:34,549 "GET /student/details/1/ HTTP/1.1" 200 3342
+INFO 2023-06-18 18:54:34,645 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:55:06,556 "GET /student/details/1/ HTTP/1.1" 200 3155
+INFO 2023-06-18 18:55:06,638 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:56:10,271 "GET /student/details/1/ HTTP/1.1" 200 3154
+INFO 2023-06-18 18:56:10,380 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 18:56:53,169 "GET /student/details/1/ HTTP/1.1" 200 3208
+INFO 2023-06-18 18:56:53,252 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 19:00:16,674 "GET /student/details/1/ HTTP/1.1" 200 3283
+INFO 2023-06-18 19:00:16,758 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 19:00:47,070 "GET /student/details/1/ HTTP/1.1" 200 3280
+INFO 2023-06-18 19:00:47,154 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 19:04:29,690 "GET /student/details/1/ HTTP/1.1" 200 3300
+INFO 2023-06-18 19:04:29,776 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 19:05:22,447 "GET /student/details/1/ HTTP/1.1" 200 3325
+INFO 2023-06-18 19:05:22,520 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 19:05:40,842 "GET /student/details/1/ HTTP/1.1" 200 3323
+INFO 2023-06-18 19:05:40,929 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 19:06:36,173 "GET /student/details/1/ HTTP/1.1" 200 3348
+INFO 2023-06-18 19:06:36,271 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 19:07:39,990 "GET /student/details/1/ HTTP/1.1" 200 3352
+INFO 2023-06-18 19:07:40,068 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 19:07:41,879 "GET /student/details/1/ HTTP/1.1" 200 3352
+INFO 2023-06-18 19:07:41,950 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:04,921 "GET /student/1/update/ HTTP/1.1" 200 18242
+INFO 2023-06-18 19:08:05,234 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:05,296 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:05,369 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:05,431 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:05,492 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:05,554 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:05,616 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:05,669 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:05,751 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:05,813 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:05,911 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:05,969 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:06,030 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:19,362 "POST /student/1/update/ HTTP/1.1" 302 0
+INFO 2023-06-18 19:08:19,511 "GET /student/1/ HTTP/1.1" 200 12097
+INFO 2023-06-18 19:08:19,706 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:19,767 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:19,829 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:19,902 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:19,976 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:20,053 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:20,112 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:20,193 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:20,276 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:20,337 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:20,401 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 200 32463
+INFO 2023-06-18 19:08:20,461 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:20,523 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:20,587 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:25,299 "GET /student/details/1/ HTTP/1.1" 200 3352
+INFO 2023-06-18 19:08:25,381 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 19:08:27,412 "GET /student/details/1/ HTTP/1.1" 200 3352
+INFO 2023-06-18 19:08:27,495 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-06-18 19:09:05,073 "GET /student/details/1/ HTTP/1.1" 200 3375
+INFO 2023-06-18 19:09:05,152 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 19:18:58,020 "GET /student/details/1/ HTTP/1.1" 200 3381
+INFO 2023-06-18 19:18:58,108 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 19:22:06,088 "GET /student/details/1/ HTTP/1.1" 200 3402
+INFO 2023-06-18 19:22:06,177 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 19:23:12,859 "GET /student/details/1/ HTTP/1.1" 200 3437
+INFO 2023-06-18 19:24:06,743 "GET /student/details/1/ HTTP/1.1" 200 3470
+INFO 2023-06-18 19:24:06,825 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 19:25:02,620 "GET /student/details/1/ HTTP/1.1" 200 3474
+INFO 2023-06-18 19:25:04,478 "GET /student/details/1/ HTTP/1.1" 200 3474
+INFO 2023-06-18 19:25:21,744 "GET /student/details/1/ HTTP/1.1" 200 3478
+INFO 2023-06-18 19:28:23,331 "GET /student/details/1/ HTTP/1.1" 200 3526
+INFO 2023-06-18 19:28:23,415 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 19:30:51,976 "GET /student/details/1/ HTTP/1.1" 200 3555
+INFO 2023-06-18 19:30:52,060 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 19:31:09,026 "GET /student/details/1/ HTTP/1.1" 200 3555
+INFO 2023-06-18 19:31:09,955 "GET /student/details/1/ HTTP/1.1" 200 3555
+INFO 2023-06-18 19:31:17,325 "GET /student/details/1/ HTTP/1.1" 200 3555
+INFO 2023-06-18 19:31:23,578 "GET /student/details/1/ HTTP/1.1" 200 3555
+INFO 2023-06-18 19:31:37,546 "GET /student/details/1/ HTTP/1.1" 200 3555
+INFO 2023-06-18 19:31:48,316 "GET /student/details/1/ HTTP/1.1" 200 3555
+INFO 2023-06-18 19:32:43,637 "GET /student/details/1/ HTTP/1.1" 200 3572
+INFO 2023-06-18 19:33:11,057 "GET /student/details/1/ HTTP/1.1" 200 3555
+INFO 2023-06-18 19:33:11,143 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 19:34:52,485 "GET /student/details/1/ HTTP/1.1" 200 3549
+INFO 2023-06-18 19:35:35,804 "GET /student/details/1/ HTTP/1.1" 200 3541
+INFO 2023-06-18 19:35:54,121 "GET /student/details/1/ HTTP/1.1" 200 3541
+INFO 2023-06-18 19:35:54,213 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 19:35:55,694 "GET /student/details/1/ HTTP/1.1" 200 3547
+INFO 2023-06-18 19:36:36,954 "GET /student/details/1/ HTTP/1.1" 200 3559
+INFO 2023-06-18 19:37:38,316 "GET /student/details/1/ HTTP/1.1" 200 3559
+INFO 2023-06-18 19:38:01,465 "GET /student/details/1/ HTTP/1.1" 200 3571
+INFO 2023-06-18 19:38:35,061 "GET /student/details/1/ HTTP/1.1" 200 3600
+INFO 2023-06-18 19:39:08,606 "GET /student/details/1/ HTTP/1.1" 200 3604
+INFO 2023-06-18 19:39:08,697 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 19:39:30,853 "GET /student/details/1/ HTTP/1.1" 200 3604
+INFO 2023-06-18 19:39:33,115 "GET /student/details/1/ HTTP/1.1" 200 3605
+INFO 2023-06-18 19:39:43,190 "GET /student/details/1/ HTTP/1.1" 200 3603
+INFO 2023-06-18 19:39:50,009 "GET /student/details/1/ HTTP/1.1" 200 3603
+INFO 2023-06-18 19:40:24,412 "GET /student/details/1/ HTTP/1.1" 200 3602
+INFO 2023-06-18 19:40:26,826 "GET /student/details/1/ HTTP/1.1" 200 3602
+INFO 2023-06-18 19:40:27,789 "GET /student/details/1/ HTTP/1.1" 200 3602
+INFO 2023-06-18 19:41:37,473 "GET /student/details/1/ HTTP/1.1" 200 3991
+INFO 2023-06-18 19:43:33,897 "GET /student/details/1/ HTTP/1.1" 200 3682
+INFO 2023-06-18 19:43:33,988 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 19:45:05,161 "GET /student/details/1/ HTTP/1.1" 200 4240
+INFO 2023-06-18 19:46:22,250 "GET /student/details/1/ HTTP/1.1" 200 4240
+INFO 2023-06-18 19:46:25,318 "GET /student/details/1/ HTTP/1.1" 200 4464
+INFO 2023-06-18 19:49:59,846 "GET /student/details/1/ HTTP/1.1" 200 4539
+INFO 2023-06-18 19:49:59,934 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 19:53:53,451 "GET /student/details/1/ HTTP/1.1" 200 4743
+INFO 2023-06-18 19:57:54,375 "GET /student/details/1/ HTTP/1.1" 200 4932
+INFO 2023-06-18 19:57:54,459 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 20:05:06,138 "GET /student/details/1/ HTTP/1.1" 200 6563
+INFO 2023-06-18 20:05:06,223 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 20:06:34,780 "GET /student/details/1/ HTTP/1.1" 200 6528
+INFO 2023-06-18 20:07:14,659 "GET /student/details/1/ HTTP/1.1" 200 6528
+INFO 2023-06-18 20:07:16,205 "GET /student/details/1/ HTTP/1.1" 200 6530
+INFO 2023-06-18 20:07:23,509 "GET /student/details/1/ HTTP/1.1" 200 6528
+INFO 2023-06-18 20:08:46,095 "GET /student/details/1/ HTTP/1.1" 200 6554
+INFO 2023-06-18 20:09:24,448 "GET /student/details/1/ HTTP/1.1" 200 6586
+INFO 2023-06-18 20:09:26,550 "GET /student/details/1/ HTTP/1.1" 200 6586
+INFO 2023-06-18 20:09:27,704 "GET /student/details/1/ HTTP/1.1" 200 6586
+INFO 2023-06-18 20:09:49,550 "GET /student/details/1/ HTTP/1.1" 200 6650
+INFO 2023-06-18 20:09:51,040 "GET /student/details/1/ HTTP/1.1" 200 6650
+INFO 2023-06-18 20:09:52,771 "GET /student/details/1/ HTTP/1.1" 200 6650
+INFO 2023-06-18 20:09:59,963 "GET /student/details/1/ HTTP/1.1" 200 6650
+INFO 2023-06-18 20:10:08,989 "GET /student/details/1/ HTTP/1.1" 200 6662
+INFO 2023-06-18 20:10:10,212 "GET /student/details/1/ HTTP/1.1" 200 6662
+INFO 2023-06-18 20:10:35,541 "GET /student/details/1/ HTTP/1.1" 200 6668
+INFO 2023-06-18 20:11:43,782 "GET /student/details/1/ HTTP/1.1" 200 6672
+INFO 2023-06-18 20:11:43,867 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 20:11:47,016 "GET /student/details/1/ HTTP/1.1" 200 6672
+INFO 2023-06-18 20:12:53,649 "GET /student/details/1/ HTTP/1.1" 200 6704
+INFO 2023-06-18 20:13:38,893 "GET /student/details/1/ HTTP/1.1" 200 6704
+INFO 2023-06-18 20:13:42,839 "GET /student/details/1/ HTTP/1.1" 200 6703
+INFO 2023-06-18 20:13:44,935 "GET /student/details/1/ HTTP/1.1" 200 6703
+INFO 2023-06-18 20:13:52,113 "GET /student/details/1/ HTTP/1.1" 200 6703
+INFO 2023-06-18 20:14:14,340 "GET /student/details/1/ HTTP/1.1" 200 6702
+INFO 2023-06-18 20:22:13,565 "GET /student/details/1/ HTTP/1.1" 200 6752
+INFO 2023-06-18 20:22:13,652 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 20:22:37,227 "GET /student/details/1/ HTTP/1.1" 200 6765
+INFO 2023-06-18 20:22:57,296 "GET /student/details/1/ HTTP/1.1" 200 6765
+INFO 2023-06-18 20:22:58,972 "GET /student/details/1/ HTTP/1.1" 200 6765
+INFO 2023-06-18 20:22:59,819 "GET /student/details/1/ HTTP/1.1" 200 6765
+INFO 2023-06-18 20:23:53,713 "GET /student/details/1/ HTTP/1.1" 200 6709
+INFO 2023-06-18 20:25:24,872 "GET /student/details/1/ HTTP/1.1" 200 6754
+INFO 2023-06-18 20:25:27,551 "GET /student/details/1/ HTTP/1.1" 200 6754
+INFO 2023-06-18 20:25:38,240 "GET /student/details/1/ HTTP/1.1" 200 6756
+INFO 2023-06-18 20:25:39,317 "GET /student/details/1/ HTTP/1.1" 200 6756
+INFO 2023-06-18 20:25:40,526 "GET /student/details/1/ HTTP/1.1" 200 6756
+INFO 2023-06-18 20:25:42,226 "GET /student/details/1/ HTTP/1.1" 200 6756
+INFO 2023-06-18 20:26:24,525 "GET /student/details/1/ HTTP/1.1" 200 6759
+INFO 2023-06-18 20:26:25,422 "GET /student/details/1/ HTTP/1.1" 200 6759
+INFO 2023-06-18 20:26:43,213 "GET /student/details/1/ HTTP/1.1" 200 6768
+INFO 2023-06-18 20:26:44,560 "GET /student/details/1/ HTTP/1.1" 200 6768
+INFO 2023-06-18 20:27:08,726 "GET /student/details/1/ HTTP/1.1" 200 6769
+INFO 2023-06-18 20:27:09,469 "GET /student/details/1/ HTTP/1.1" 200 6769
+INFO 2023-06-18 20:27:10,144 "GET /student/details/1/ HTTP/1.1" 200 6769
+INFO 2023-06-18 20:27:27,328 "GET /student/details/1/ HTTP/1.1" 200 6774
+INFO 2023-06-18 20:29:01,830 "GET /student/details/1/ HTTP/1.1" 200 6827
+INFO 2023-06-18 20:29:32,466 "GET /student/details/1/ HTTP/1.1" 200 6843
+INFO 2023-06-18 20:30:34,306 "GET /student/details/1/ HTTP/1.1" 200 6871
+INFO 2023-06-18 20:30:34,390 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 20:30:53,562 "GET /student/details/1/ HTTP/1.1" 200 6871
+INFO 2023-06-18 20:30:56,877 "GET /student/details/1/ HTTP/1.1" 200 6854
+INFO 2023-06-18 20:31:15,491 "GET /student/details/1/ HTTP/1.1" 200 6851
+INFO 2023-06-18 20:31:16,912 "GET /student/details/1/ HTTP/1.1" 200 6851
+INFO 2023-06-18 20:32:15,060 "GET /student/details/1/ HTTP/1.1" 200 6912
+INFO 2023-06-18 20:32:15,870 "GET /student/details/1/ HTTP/1.1" 200 6912
+INFO 2023-06-18 20:33:58,776 "GET /student/details/1/ HTTP/1.1" 200 6920
+INFO 2023-06-18 20:34:56,158 "GET /student/details/1/ HTTP/1.1" 200 6971
+INFO 2023-06-18 20:35:07,096 "GET /student/details/1/ HTTP/1.1" 200 6971
+INFO 2023-06-18 20:35:44,118 "GET /student/details/1/ HTTP/1.1" 200 6976
+INFO 2023-06-18 20:36:11,812 "GET /student/details/1/ HTTP/1.1" 200 7012
+INFO 2023-06-18 20:36:31,873 "GET /student/details/1/ HTTP/1.1" 200 7024
+INFO 2023-06-18 20:36:46,418 "GET /student/details/1/ HTTP/1.1" 200 7018
+INFO 2023-06-18 20:39:18,092 "GET /student/details/1/ HTTP/1.1" 200 7301
+INFO 2023-06-18 20:39:18,203 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 20:40:09,949 "GET /student/1/ HTTP/1.1" 200 11954
+INFO 2023-06-18 20:40:12,317 "GET /student/details/1/ HTTP/1.1" 200 7350
+INFO 2023-06-18 20:41:26,249 "GET /student/details/1/ HTTP/1.1" 200 7359
+INFO 2023-06-18 20:44:13,716 "GET /student/details/1/ HTTP/1.1" 200 7058
+INFO 2023-06-18 20:46:03,000 "GET /student/details/1/ HTTP/1.1" 200 7107
+INFO 2023-06-18 20:46:46,724 "GET /student/details/1/ HTTP/1.1" 200 7107
+INFO 2023-06-18 20:47:42,939 "GET /student/details/1/ HTTP/1.1" 200 7109
+INFO 2023-06-18 20:48:20,362 "GET /student/details/1/ HTTP/1.1" 200 7146
+INFO 2023-06-18 20:48:21,180 "GET /student/details/1/ HTTP/1.1" 200 7146
+INFO 2023-06-18 20:48:26,441 "GET /student/details/1/ HTTP/1.1" 200 7043
+INFO 2023-06-18 20:48:26,525 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 20:48:27,246 "GET /student/details/1/ HTTP/1.1" 200 7043
+INFO 2023-06-18 20:51:21,921 "GET /student/details/1/ HTTP/1.1" 200 7008
+INFO 2023-06-18 20:51:24,399 "GET /student/details/1/ HTTP/1.1" 200 7008
+INFO 2023-06-18 20:52:49,275 "GET /student/details/1/ HTTP/1.1" 200 7026
+INFO 2023-06-18 20:52:50,853 "GET /student/details/1/ HTTP/1.1" 200 7026
+INFO 2023-06-18 20:55:50,642 "GET /student/details/1/ HTTP/1.1" 200 7052
+INFO 2023-06-18 21:03:40,236 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2023-06-18 21:03:40,254 "GET / HTTP/1.1" 200 23861
+INFO 2023-06-18 21:03:40,315 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,327 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,329 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,330 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,334 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,334 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,346 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,349 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,358 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,359 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,361 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,362 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,365 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,375 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,384 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,388 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,388 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,391 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,398 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,405 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,422 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,431 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,436 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,452 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,454 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,731 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:40,739 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:41,061 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 28866
+INFO 2023-06-18 21:03:42,099 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:42,139 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:42,262 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 13434880
+INFO 2023-06-18 21:03:42,265 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 194
+INFO 2023-06-18 21:03:42,354 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:03:42,382 - Broken pipe from ('127.0.0.1', 59712)
+INFO 2023-06-18 21:03:42,393 - Broken pipe from ('127.0.0.1', 59714)
+INFO 2023-06-18 21:03:52,349 "GET /static/wb_assets/file/MA-Result%20Notice.pdf HTTP/1.1" 200 278343
+INFO 2023-06-18 21:09:24,895 "GET / HTTP/1.1" 200 23619
+INFO 2023-06-18 21:09:24,917 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,930 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,944 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,950 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,956 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,962 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,966 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,968 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,974 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,980 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,982 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,983 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,989 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,992 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,992 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,993 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:24,996 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:25,009 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:25,011 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:25,013 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:25,017 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:25,019 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:25,019 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:25,025 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:25,262 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 2621440
+INFO 2023-06-18 21:09:25,450 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:25,451 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:25,461 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:09:25,461 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:11:01,929 "GET /static/wb_assets/file/MA-Result%20Notice.pdf HTTP/1.1" 200 278343
+INFO 2023-06-18 21:15:16,240 "GET / HTTP/1.1" 200 23882
+INFO 2023-06-18 21:15:16,271 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,271 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,294 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,305 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,310 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,311 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,318 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,321 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,323 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,324 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,325 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,332 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,340 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,341 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,347 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,347 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,351 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,355 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,363 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,365 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,369 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,369 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,377 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,378 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,410 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,517 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,518 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:16,651 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:15:24,659 "GET /static/wb_assets/file/Routine%20(1st%20Unit%202023-24%20).pdf HTTP/1.1" 200 138622
+INFO 2023-06-18 21:16:38,977 "GET / HTTP/1.1" 200 23921
+INFO 2023-06-18 21:16:39,001 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,014 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,036 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,036 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,046 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,050 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,054 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,060 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,064 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,069 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,070 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,076 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,077 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,079 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,081 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,083 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,095 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,095 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,095 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,114 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,116 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,125 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,128 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,130 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,148 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,249 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:16:39,252 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,735 "GET / HTTP/1.1" 200 24393
+INFO 2023-06-18 21:19:09,768 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,776 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,798 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,802 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,819 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,820 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,830 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,836 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,839 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,840 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,845 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,846 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,854 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,856 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,857 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,870 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,858 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,879 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,882 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,885 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,885 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,886 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,929 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,938 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:09,976 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:19:10,162 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:49,104 "GET / HTTP/1.1" 200 24005
+INFO 2023-06-18 21:26:49,125 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:49,136 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:49,147 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:49,160 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:49,165 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:49,175 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:49,177 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:49,183 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,452 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 200 3828029
+INFO 2023-06-18 21:26:51,470 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,478 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,482 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,487 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,497 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,608 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 200 4961851
+INFO 2023-06-18 21:26:51,611 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 200 5654844
+INFO 2023-06-18 21:26:51,703 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,744 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,857 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,909 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,917 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,919 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:51,930 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 200 5326060
+INFO 2023-06-18 21:26:52,119 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 200 6061304
+INFO 2023-06-18 21:26:52,133 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:52,134 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:52,183 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 200 7360104
+INFO 2023-06-18 21:26:52,262 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:26:52,262 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,406 "GET / HTTP/1.1" 200 24005
+INFO 2023-06-18 21:36:15,434 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,447 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,468 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,468 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,482 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,483 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,487 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,488 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,496 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,498 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,502 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,510 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,511 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,516 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,519 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,533 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,540 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,569 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,570 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,578 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,583 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,588 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,939 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:15,943 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:16,185 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:17,950 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 200 4571074
+INFO 2023-06-18 21:36:18,036 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 200 4937687
+INFO 2023-06-18 21:36:18,054 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 200 5407203
+INFO 2023-06-18 21:36:38,525 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:38,557 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:38,563 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:36:43,223 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:40:03,616 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:41:47,352 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:42:57,890 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,095 "GET /corecode/ HTTP/1.1" 302 0
+INFO 2023-06-18 21:43:10,432 "GET /accounts/login/?next=/corecode/ HTTP/1.1" 200 3980
+INFO 2023-06-18 21:43:10,543 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,543 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,558 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,559 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,576 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,610 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,614 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,614 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,614 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,619 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,620 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,629 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,644 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:10,723 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:12,975 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-06-18 21:43:13,270 "GET /corecode/ HTTP/1.1" 200 14023
+INFO 2023-06-18 21:43:13,709 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:13,790 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:13,874 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:13,943 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:14,008 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:14,092 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:14,164 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:14,237 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:14,300 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:14,361 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:14,422 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:14,473 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:14,568 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:14,752 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:22,818 "GET /student/list HTTP/1.1" 200 10408
+INFO 2023-06-18 21:43:22,957 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,018 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,082 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,142 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,204 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,276 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,339 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,423 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,507 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,579 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,640 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,702 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:23,819 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:26,855 "GET /student/1/ HTTP/1.1" 200 11954
+INFO 2023-06-18 21:43:27,000 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,083 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,155 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,217 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,290 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,367 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,436 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,501 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,560 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,642 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,716 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,854 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,934 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:27,999 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-18 21:43:36,310 "GET /student/details/1/ HTTP/1.1" 200 7052
