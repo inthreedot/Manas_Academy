@@ -3063,3 +3063,5 @@ INFO 2023-06-18 21:43:27,854 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 30
 INFO 2023-06-18 21:43:27,934 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
 INFO 2023-06-18 21:43:27,999 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
 INFO 2023-06-18 21:43:36,310 "GET /student/details/1/ HTTP/1.1" 200 7052
+INFO 2023-06-18 22:19:19,144 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
+INFO 2023-06-18 22:19:27,325 Watching for file changes with StatReloader
