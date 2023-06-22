@@ -3065,3 +3065,1026 @@ INFO 2023-06-18 21:43:27,999 "GET /media/students/student_photos/Zinnati_VgXfA7f
 INFO 2023-06-18 21:43:36,310 "GET /student/details/1/ HTTP/1.1" 200 7052
 INFO 2023-06-18 22:19:19,144 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
 INFO 2023-06-18 22:19:27,325 Watching for file changes with StatReloader
+INFO 2023-06-19 12:32:48,490 Watching for file changes with StatReloader
+ERROR 2023-06-19 12:32:58,926 Internal Server Error: /student/details/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\corecode\middleware.py", line 9, in __call__
+    current_session = AcademicSession.objects.get(current=True)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:32:59,009 Internal Server Error: /student/details/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 187, in _get_session
+    return self._session_cache
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\middleware.py", line 48, in process_response
+    if request.session.get_expire_at_browser_close():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 285, in get_expire_at_browser_close
+    if (expiry := self.get("_session_expiry")) is None:
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 68, in get
+    return self._session.get(key, default)
+           ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 192, in _get_session
+    self._session_cache = self.load()
+                          ^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 42, in load
+    s = self._get_session_from_db()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:32:59,012 "GET /student/details/1/ HTTP/1.1" 500 150438
+INFO 2023-06-19 12:33:52,624 Watching for file changes with StatReloader
+ERROR 2023-06-19 12:33:58,166 Internal Server Error: /student/details/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\corecode\middleware.py", line 9, in __call__
+    current_session = AcademicSession.objects.get(current=True)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:33:58,206 Internal Server Error: /student/details/1/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 187, in _get_session
+    return self._session_cache
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\middleware.py", line 48, in process_response
+    if request.session.get_expire_at_browser_close():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 285, in get_expire_at_browser_close
+    if (expiry := self.get("_session_expiry")) is None:
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 68, in get
+    return self._session.get(key, default)
+           ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 192, in _get_session
+    self._session_cache = self.load()
+                          ^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 42, in load
+    s = self._get_session_from_db()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:33:58,216 "GET /student/details/1/ HTTP/1.1" 500 150569
+ERROR 2023-06-19 12:34:02,262 Internal Server Error: /student/list
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\corecode\middleware.py", line 9, in __call__
+    current_session = AcademicSession.objects.get(current=True)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:34:02,318 Internal Server Error: /student/list
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 187, in _get_session
+    return self._session_cache
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\middleware.py", line 48, in process_response
+    if request.session.get_expire_at_browser_close():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 285, in get_expire_at_browser_close
+    if (expiry := self.get("_session_expiry")) is None:
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 68, in get
+    return self._session.get(key, default)
+           ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 192, in _get_session
+    self._session_cache = self.load()
+                          ^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 42, in load
+    s = self._get_session_from_db()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:34:02,321 "GET /student/list HTTP/1.1" 500 150364
+ERROR 2023-06-19 12:34:07,730 Internal Server Error: /corecode/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\corecode\middleware.py", line 9, in __call__
+    current_session = AcademicSession.objects.get(current=True)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:34:07,781 Internal Server Error: /corecode/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 187, in _get_session
+    return self._session_cache
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\middleware.py", line 48, in process_response
+    if request.session.get_expire_at_browser_close():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 285, in get_expire_at_browser_close
+    if (expiry := self.get("_session_expiry")) is None:
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 68, in get
+    return self._session.get(key, default)
+           ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 192, in _get_session
+    self._session_cache = self.load()
+                          ^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 42, in load
+    s = self._get_session_from_db()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:34:07,784 "GET /corecode/ HTTP/1.1" 500 150328
+ERROR 2023-06-19 12:34:20,987 Internal Server Error: /finance/list/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\corecode\middleware.py", line 9, in __call__
+    current_session = AcademicSession.objects.get(current=True)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:34:21,036 Internal Server Error: /finance/list/
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 187, in _get_session
+    return self._session_cache
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\middleware.py", line 48, in process_response
+    if request.session.get_expire_at_browser_close():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 285, in get_expire_at_browser_close
+    if (expiry := self.get("_session_expiry")) is None:
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 68, in get
+    return self._session.get(key, default)
+           ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 192, in _get_session
+    self._session_cache = self.load()
+                          ^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 42, in load
+    s = self._get_session_from_db()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:34:21,038 "GET /finance/list/ HTTP/1.1" 500 150375
+INFO 2023-06-19 12:35:41,995 Watching for file changes with StatReloader
+ERROR 2023-06-19 12:35:47,273 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\Manas_Academy\apps\corecode\middleware.py", line 9, in __call__
+    current_session = AcademicSession.objects.get(current=True)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:35:47,353 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 187, in _get_session
+    return self._session_cache
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Manas\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\middleware.py", line 48, in process_response
+    if request.session.get_expire_at_browser_close():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 285, in get_expire_at_browser_close
+    if (expiry := self.get("_session_expiry")) is None:
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 68, in get
+    return self._session.get(key, default)
+           ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 192, in _get_session
+    self._session_cache = self.load()
+                          ^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 42, in load
+    s = self._get_session_from_db()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1385, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 593, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup()
+                                       ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 71, in pre_sql_setup
+    self.setup_query()
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 62, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select()
+                                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 294, in get_select
+    sql, params = self.compile(col)
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 506, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\expressions.py", line 1109, in as_sql
+    sql = ".".join(map(compiler.quote_name_unless_alias, identifiers))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 497, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Manas\venv\Lib\site-packages\django\db\backends\dummy\base.py", line 20, in complain
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+ERROR 2023-06-19 12:35:47,353 "GET / HTTP/1.1" 500 150072
+INFO 2023-06-19 12:36:40,340 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
+INFO 2023-06-19 12:36:40,390 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
+INFO 2023-06-19 12:36:41,721 Watching for file changes with StatReloader
+INFO 2023-06-19 12:36:41,750 Watching for file changes with StatReloader
+INFO 2023-06-19 12:36:47,693 "GET / HTTP/1.1" 200 24005
+INFO 2023-06-19 12:36:47,777 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:47,857 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:47,920 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:47,987 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,089 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,152 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,221 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,287 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,360 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,420 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,507 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,568 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,638 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,701 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,771 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,817 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,883 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:48,943 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:49,101 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:49,195 - Broken pipe from ('127.0.0.1', 61091)
+INFO 2023-06-19 12:36:49,251 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:49,311 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:49,385 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:49,443 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 28866
+INFO 2023-06-19 12:36:49,501 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:49,567 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:49,633 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:49,693 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:49,904 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:50,672 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 15826944
+INFO 2023-06-19 12:36:50,777 - Broken pipe from ('127.0.0.1', 61098)
+INFO 2023-06-19 12:36:52,384 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:52,446 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:52,521 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:52,935 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:52,996 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-19 12:36:53,076 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:57,325 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:57,497 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 194
+INFO 2023-06-19 12:37:57,810 "GET /corecode/ HTTP/1.1" 302 0
+INFO 2023-06-19 12:37:58,079 "GET /accounts/login/?next=/corecode/ HTTP/1.1" 200 3980
+INFO 2023-06-19 12:37:58,296 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:58,367 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:58,482 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:58,555 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:58,630 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:58,701 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:58,773 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:58,835 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:58,896 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:58,971 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:59,043 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:59,116 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:59,177 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:37:59,392 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:02,059 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-06-19 12:38:02,252 "GET /corecode/ HTTP/1.1" 200 14023
+INFO 2023-06-19 12:38:02,425 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:02,497 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:02,558 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:02,620 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:02,672 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:02,732 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:02,794 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:02,858 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:02,929 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:02,991 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:03,053 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:03,114 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:03,177 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:03,337 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:06,623 "GET /student/list HTTP/1.1" 200 10408
+INFO 2023-06-19 12:38:06,738 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:06,821 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:06,910 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:06,978 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:07,050 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:07,127 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:07,184 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:07,246 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:07,319 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:07,381 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:07,442 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:07,504 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:07,565 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:10,245 "GET /student/1/ HTTP/1.1" 200 11954
+INFO 2023-06-19 12:38:10,340 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:10,402 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:10,463 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:10,525 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:10,587 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:10,670 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:10,732 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:10,794 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:10,856 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:10,940 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:11,003 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:11,063 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:11,124 "GET /media/students/student_photos/Zinnati_VgXfA7f.jpg HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:11,497 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-06-19 12:38:16,264 "GET /student/details/1/ HTTP/1.1" 200 7052
+INFO 2023-06-19 12:40:51,851 "GET /student/details/1/ HTTP/1.1" 200 7082
+INFO 2023-06-19 12:41:43,378 "GET /student/details/1/ HTTP/1.1" 200 7113
+INFO 2023-06-19 12:43:24,727 "GET /student/details/1/ HTTP/1.1" 200 7175
+INFO 2023-06-19 12:43:27,423 "GET /student/details/1/ HTTP/1.1" 200 7175
+INFO 2023-06-19 12:43:45,719 "GET /student/details/1/ HTTP/1.1" 200 7175
+INFO 2023-06-19 12:43:47,672 "GET /student/details/1/ HTTP/1.1" 200 7175
+INFO 2023-06-19 12:44:01,459 "GET /student/details/1/ HTTP/1.1" 200 7187
+INFO 2023-06-19 12:44:24,667 "GET /student/details/1/ HTTP/1.1" 200 7188
+INFO 2023-06-19 12:45:15,222 "GET /student/details/1/ HTTP/1.1" 200 7157
+INFO 2023-06-19 12:45:17,095 "GET /student/details/1/ HTTP/1.1" 200 7157
+INFO 2023-06-19 12:45:59,373 "GET /student/details/1/ HTTP/1.1" 200 7159
+INFO 2023-06-19 12:46:16,624 "GET /student/details/1/ HTTP/1.1" 200 7159
+INFO 2023-06-19 12:46:32,983 "GET /student/details/1/ HTTP/1.1" 200 7161
+INFO 2023-06-19 12:46:45,346 "GET /student/details/1/ HTTP/1.1" 200 7159
+INFO 2023-06-19 12:47:08,083 "GET /student/details/1/ HTTP/1.1" 200 7161
+INFO 2023-06-19 12:48:36,137 "GET /student/details/1/ HTTP/1.1" 200 7158
+INFO 2023-06-19 12:49:18,943 "GET /student/details/1/ HTTP/1.1" 200 7158
+INFO 2023-06-19 12:49:34,541 "GET /student/details/1/ HTTP/1.1" 200 7160
+INFO 2023-06-19 12:49:50,686 "GET /student/details/1/ HTTP/1.1" 200 7159
+INFO 2023-06-19 12:50:43,071 "GET /student/details/1/ HTTP/1.1" 200 7159
+INFO 2023-06-19 12:51:47,826 "GET /student/details/1/ HTTP/1.1" 200 7159
+INFO 2023-06-19 12:53:43,998 "GET /student/details/1/ HTTP/1.1" 200 7231
+INFO 2023-06-22 10:35:33,880 Watching for file changes with StatReloader
+INFO 2023-06-22 10:36:04,947 "GET / HTTP/1.1" 200 24005
+INFO 2023-06-22 10:36:05,066 "GET /static/wb_css/style.css HTTP/1.1" 200 80689
+INFO 2023-06-22 10:36:05,093 "GET /static/wb_js/app.js HTTP/1.1" 200 5611
+INFO 2023-06-22 10:36:05,107 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 200 220
+INFO 2023-06-22 10:36:05,147 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 200 540
+INFO 2023-06-22 10:36:05,161 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 200 1030
+INFO 2023-06-22 10:36:05,167 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 200 5386
+INFO 2023-06-22 10:36:05,346 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 200 397551
+INFO 2023-06-22 10:36:05,637 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 200 3828029
+INFO 2023-06-22 10:36:06,290 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 200 6061304
+INFO 2023-06-22 10:36:06,732 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 200 5407203
+INFO 2023-06-22 10:36:06,788 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 200 5326060
+INFO 2023-06-22 10:36:06,791 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 200 5654844
+INFO 2023-06-22 10:36:06,846 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 200 604102
+INFO 2023-06-22 10:36:06,857 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 200 4571074
+INFO 2023-06-22 10:36:06,875 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 200 10793
+INFO 2023-06-22 10:36:06,885 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 200 14416
+INFO 2023-06-22 10:36:06,893 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 200 12857
+INFO 2023-06-22 10:36:06,905 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 200 16887
+INFO 2023-06-22 10:36:06,933 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 200 419420
+INFO 2023-06-22 10:36:07,060 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 200 180325
+INFO 2023-06-22 10:36:07,131 - Broken pipe from ('127.0.0.1', 52702)
+INFO 2023-06-22 10:36:07,141 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 28866
+INFO 2023-06-22 10:36:07,189 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:36:07,492 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 200 4961851
+INFO 2023-06-22 10:36:07,522 - Broken pipe from ('127.0.0.1', 52707)
+INFO 2023-06-22 10:36:07,526 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 206 3446
+INFO 2023-06-22 10:36:07,544 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:36:07,762 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 200 7360104
+INFO 2023-06-22 10:36:07,849 - Broken pipe from ('127.0.0.1', 52704)
+INFO 2023-06-22 10:36:08,298 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 200 4937687
+INFO 2023-06-22 10:36:08,720 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 15441920
+WARNING 2023-06-22 10:36:08,987 Not Found: /favicon.ico
+WARNING 2023-06-22 10:36:09,009 "GET /favicon.ico HTTP/1.1" 404 4400
+INFO 2023-06-22 10:36:09,568 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:36:09,622 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:36:09,636 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:36:09,649 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:36:09,675 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:36:09,679 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:36:09,696 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:36:09,708 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:36:09,713 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,520 "GET / HTTP/1.1" 200 24576
+INFO 2023-06-22 10:38:19,536 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,551 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,567 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,567 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,567 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,583 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,583 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,583 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,598 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,598 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,598 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,614 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,623 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,623 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,627 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,639 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,640 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,641 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,655 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,659 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,665 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,666 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,673 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,678 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,696 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 206 194
+INFO 2023-06-22 10:38:19,698 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,738 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,848 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,858 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:38:19,871 - Broken pipe from ('127.0.0.1', 52720)
+INFO 2023-06-22 10:45:06,195 "GET / HTTP/1.1" 200 24045
+INFO 2023-06-22 10:45:06,210 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,233 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,248 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,248 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,248 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,264 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,264 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,277 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,277 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,277 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,280 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,280 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,280 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,280 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,280 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,296 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,296 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,296 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,296 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,296 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,311 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,311 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,311 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,311 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,311 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,335 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,336 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,343 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,344 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,721 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,768 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,776 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:45:06,794 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,085 "GET / HTTP/1.1" 200 24045
+INFO 2023-06-22 10:47:10,109 "GET /static/wb_css/style.css HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,120 "GET /static/wb_js/app.js HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,131 "GET /static/wb_assets/icon/manas_logo.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,133 "GET /static/wb_assets/icon/play_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,150 "GET /static/wb_assets/image/2.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,152 "GET /static/wb_assets/image/3.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,154 "GET /static/wb_assets/icon/pause_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,155 "GET /static/wb_assets/image/4.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,155 "GET /static/wb_assets/icon/pdf_icon.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,155 "GET /static/wb_assets/icon/download.svg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,169 "GET /static/wb_assets/image/1.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,172 "GET /static/wb_assets/image/6.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,175 "GET /static/wb_assets/image/8.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,176 "GET /static/wb_assets/image/5.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,185 "GET /static/wb_assets/image/school_bus.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,193 "GET /static/wb_assets/icon/facebook.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,195 "GET /static/wb_assets/image/hostel.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,215 "GET /static/wb_assets/icon/twitter.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,221 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,226 "GET /static/wb_assets/icon/instagram.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,234 "GET /static/wb_assets/icon/linkedin.png HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,239 "GET /static/wb_assets/image/7.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,240 "GET /static/wb_assets/image/cultural.jpg HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,767 "GET /static/wb_assets/video/overview_video.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:10,849 "GET /static/wb_assets/image/sports.jpg HTTP/1.1" 200 3828029
+INFO 2023-06-22 10:47:11,264 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:47:11,265 - Broken pipe from ('127.0.0.1', 58729)
+INFO 2023-06-22 10:47:11,268 "GET /static/wb_assets/video/about.mp4 HTTP/1.1" 304 0
+INFO 2023-06-22 10:49:55,070 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
+INFO 2023-06-22 10:50:00,567 Watching for file changes with StatReloader
+INFO 2023-06-22 10:52:47,212 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
+INFO 2023-06-22 10:52:48,855 Watching for file changes with StatReloader
+INFO 2023-06-22 10:52:54,850 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
+INFO 2023-06-22 10:52:56,014 Watching for file changes with StatReloader
+INFO 2023-06-22 10:53:10,912 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
+INFO 2023-06-22 10:53:12,063 Watching for file changes with StatReloader
+INFO 2023-06-22 10:53:13,958 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
+INFO 2023-06-22 10:53:15,247 Watching for file changes with StatReloader
+INFO 2023-06-22 11:03:11,848 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
+INFO 2023-06-22 11:03:13,369 Watching for file changes with StatReloader
+INFO 2023-06-22 11:03:16,219 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
+INFO 2023-06-22 11:03:17,547 Watching for file changes with StatReloader
+INFO 2023-06-22 11:03:22,411 D:\Manas\Manas_Academy\school_app\settings.py changed, reloading.
+INFO 2023-06-22 11:03:23,796 Watching for file changes with StatReloader
